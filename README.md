@@ -155,3 +155,14 @@ Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari 
 ## **Soal Nomor 10**
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 ## **Penyelesaian Soal Nomor 10**
+menggunakan filter
+```
+telnet contains "Password"
+```
+- Akan muncul **paket**
+- Setelah itu klik **follow**
+- Kemudian klik **TCP STREAM**
+- Setelah itu muncul **Username** dan **Password** yang benar
+
+
+<img width="972" alt="Screenshot 2023-09-22 at 19 07 18" src="https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/145383781/f39ed6ef-5e4f-400c-bccd-38e0b1015ea6">
