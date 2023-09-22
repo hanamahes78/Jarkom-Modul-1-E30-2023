@@ -2,7 +2,7 @@
 # **Praktikum 1 Jaringan Komputer**
 <div align=justify>
 
-Berikut adalah Repository dari Kelompok A17 untuk pengerjaan Praktikum Modul 1 Jaringan Komputer. Dalam Repository ini terdapat Anggota Kelompok, Dokumentasi serta Penjelasan tiap soal, Screenshot Output, dan Kendala yang dialami.
+Berikut repository dari Kelompok E30 Praktikum Modul 1 Jaringan Komputer.
 
 # **Anggota Kelompok**
 
