@@ -27,6 +27,38 @@ c. Berapakah sequence number (raw) pada packet yang menunjukkan response dari ak
 
 d. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari aktivitas tersebut?
 ## **Penyelesaian Soal Nomor 1**
+
+**Soal a dan b**
+menggunakan filter 
+```
+ftp.request.command == STOR
+```
+
+
+<img width="1121" alt="Screenshot 2023-09-22 at 18 20 53" src="https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/145383781/747fac54-ef8c-4b4d-8d9f-fab82941aa7f">
+
+
+- Lalu cari packet yang berisi Request : STOR (namafile) (karena aktivitasnya berupa mengunggah suatu file)
+- Sehingga, sequence number (raw) dan acknowledge number (raw) dapat diketahui
+a. sequence number (raw) : 258040667
+b. acknowledge number (raw) : 104486103925
+
+
+**Soal c dan d**
+menggunakan filter
+```
+ftp
+```
+
+
+<img width="1123" alt="Screenshot 2023-09-22 at 18 38 04" src="https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/145383781/07c645a6-14d5-40e3-9ac2-59865b1ffc08">
+
+
+- Lalu cari packet yang berisi Response : 150 ... (namafile)
+- Sehingga, sequence number (raw) dan acknowledge number (raw) dapat diketahui
+a. sequence number (raw) : 1044861039
+b. acknowledge number (raw) : 258040696
+
 ## **Soal Nomor 2**
 Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 ## **Penyelesaian Soal Nomor 2**
