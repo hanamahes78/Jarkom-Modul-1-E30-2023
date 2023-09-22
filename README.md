@@ -41,8 +41,11 @@ b. Protokol layer transport apa yang digunakan?
 Berapa nilai checksum yang didapat dari header pada paket nomor 130?
 ## **Penyelesaian Soal Nomor 4**
 - Dicari paket nomor 130. <br>
+![4 1](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/e6c7871a-0dc3-43bf-9c9b-6683ec828103)
 - Cari nilai checksum pada detail paket dan didapatkan checksum: 0x18e5. <br>
+![4 2](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/efd7f48e-b6b4-47d1-849b-d5e4097d4a2b)
 - Hasil <br>
+![4 3](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/d8f85eaf-5a82-4e0a-8d93-d8cb26b711c6)
 ## **Soal Nomor 5**
 Elshe menemukan suatu file packet capture yang menarik. Bantulah Elshe untuk menganalisis file packet capture tersebut. <br>
 a. Berapa banyak packet yang berhasil di capture dari file pcap tersebut? <br>
