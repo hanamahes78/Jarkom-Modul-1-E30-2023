@@ -62,6 +62,21 @@ b. acknowledge number (raw) : 258040696
 ## **Soal Nomor 2**
 Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 ## **Penyelesaian Soal Nomor 2**
+
+menggunakan filter
+```
+tcp contains "10.21.78.111"
+```
+
+
+<img width="1121" alt="Screenshot 2023-09-22 at 18 52 31" src="https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/145383781/1f701c65-b274-480c-a7b5-7f25e6a121c2">
+
+
+- Pilih salah satu paket
+- Klik kanan pada paket tersebut
+- Pilih follow -> TCP STREAM
+- Sehingga, web server yang digunakan dapat terlihat yaitu **gunicorn**
+
 ## **Soal Nomor 3**
 Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:
 
