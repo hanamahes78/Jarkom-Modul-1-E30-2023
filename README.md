@@ -8,8 +8,8 @@ Berikut adalah Repository dari Kelompok A17 untuk pengerjaan Praktikum Modul 1 J
 
 | Nama                      | NRP        | Kelas                |
 | ------------------------- | ---------- | ----------------     |
-| Andrian                | 5025211079 | Jaringan Komputer A  |
-| Akmal Ariq Romadhon       | 5025211188 | Jaringan Komputer A  |
+| Hana Maheswari            | 5025211182 | Jaringan Komputer E  |
+| Meyroja Jovancha Firoos   | 5025211204 | Jaringan Komputer E  |
 
 # **Dokumentasi dan Penjelasan Soal**
 <div align=justify>
