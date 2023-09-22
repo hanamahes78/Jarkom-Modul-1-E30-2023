@@ -64,11 +64,11 @@ c. Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP? 
 a.	Banyak paket yang dicapture dapat dilihat pada list paket yaitu 60 paket. <br>
 ![5 5](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/1e33f4ae-27da-4f11-9b4c-f32e096f473b)
 b.	Port service SMTP ditemukan pada bagian detail paket yaitu 25. <br>
-![5 6](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/3ce5804b-2712-470c-83d4-d515343a6af3)
+![5 6](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/58a5734b-2b50-4cb0-897c-c687fcad55c5)
 c.	Public IP dicari address yang diawali selain IP 10 yaitu IP 74.53.140.153. <br>
-![5 7](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/4401bd2e-88fe-45e2-a4a3-446b5707d3bd)
+![5 7](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/3cf1a3d3-5f6c-4bb6-8184-3a2c4ced2bb6)
 - Hasil <br>
-![5 8](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/e82b1808-4935-47f1-8d31-52a0cd495e16)
+![5 8](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/34ac3908-f482-41c4-8e67-07fefffe1c02)
 ## **Soal Nomor 6**
 Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
 ## **Penyelesaian Soal Nomor 6**
