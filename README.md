@@ -84,6 +84,18 @@ a. Berapa banyak paket yang tercapture dengan IP source maupun destination addre
 
 b. Protokol layer transport apa yang digunakan?
 ## **Penyelesaian Soal Nomor 3**
+menggunakan filter
+```
+ip.addr == 239.255.255.250 && (tcp.port == 3702 || udp.port == 3702)
+```
+
+
+<img width="1118" alt="Screenshot 2023-09-22 at 19 03 46" src="https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/145383781/6180fb35-8d9c-47ea-93a5-e96d0d91a96b">
+
+
+- Lalu, dapat kita hitung paket yang tercapture yaitu sebanyak **21** paket
+- protocol layer yang digunakan adalah **UDP**
+  
 ## **Soal Nomor 4**
 Berapa nilai checksum yang didapat dari header pada paket nomor 130?
 ## **Penyelesaian Soal Nomor 4**
