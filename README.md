@@ -76,17 +76,23 @@ Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggema
 Berapa jumlah packet yang menuju IP 184.87.193.88?
 ## **Penyelesaian Soal Nomor 7**
 - Dilakukan filter paket menggunakan ip.dst == 184.87.193.88, ditemukan 6 paket. <br>
+![7 1](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/dc114eb8-adc5-4854-aa44-dfb2fcaae817)
 - Hasil <br>
+![7 2](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/6f5d3a9b-76da-437b-9fcd-a25e5d95b966)
 ## **Soal Nomor 8**
 Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)
 ## **Penyelesaian Soal Nomor 8**
 - Filter dilakukan menggunakan logical OR menjadi tcp.dstport == 80 || udp.dstport == 80. <br>
+![8 1](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/606f02b2-c113-4cf3-9a49-d9f1d5f0e8eb)
 - Hasil <br>
+![8 2](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/db3d9c43-d6de-4559-960e-ef29119d657d)
 ## **Soal Nomor 9**
 Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
 ## **Penyelesaian Soal Nomor 9**
 - Filter dilakukan dengan menggunakan logical AND menjadi ip.src == 10.51.40.1 && ip.dst != 10.39.55.34. <br>
+![9 1](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/5083af8d-8e06-495b-b847-ec7871ba0912)
 - Hasil <br>
+![9 2](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/2af52f62-8c59-498f-9bab-fdbdd2b3d9df)
 ## **Soal Nomor 10**
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 ## **Penyelesaian Soal Nomor 10**
