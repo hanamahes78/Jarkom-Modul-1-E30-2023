@@ -132,8 +132,10 @@ c.	Public IP dicari address yang diawali selain IP 10 yaitu IP 74.53.140.153. <b
 Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
 ## **Penyelesaian Soal Nomor 6**
 - Cari IP address source paket bernomor 7812, ditemukan IP 104.18.14.101. <br>
+![6 1](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/6320cc06-0e35-4ad0-826d-4b514792bdd2)
 - Diketahui a1 e5 u21 adalah A1Z26 cypher. Kemudian IP disesuaikan menjadi 10 4 18 14 10 1, lalu di decode. <br>
-- Sehingga didapatkan solusi JDRNJA. <br>
+![6 2](https://github.com/hanamahes78/Jarkom-Modul-1-E30-2023/assets/108173681/4ad9abc2-89b0-465f-8c82-d999106e2fc4)
+- Sehingga didapatkan solusi JDRNJA.
 ## **Soal Nomor 7**
 Berapa jumlah packet yang menuju IP 184.87.193.88?
 ## **Penyelesaian Soal Nomor 7**
